@@ -1,0 +1,50 @@
+﻿Python programlama dilinde modülleri aktarmak için kullanılan anahtar kelime hangisidir?:B
+A. defy
+B. importr
+C. class
+D. except
+Aşağıdakilerden hangisi Python'da kullanılan bir veri tipi değildir?:B
+A. list
+B. double
+C. str
+D. int
+range(5,11,2) komutu ile elde edilmek istenen aşağıdakilerden hangisidir?:D
+A. 6 8 10
+B. 5 7 9 11
+C. 9 7 5
+D. 5 7 9
+print([3,4,6,7][2]) elde edilen sonuç aşağıdakilerden hangisidir?:A
+A. 6
+B. 4
+C. Hata verir
+D. 3 4
+print(10,25,35,45,sep=",",end=",") elde edilen ekran çıktısı aşağıdakilerden hangisidir?:A
+A. 10,25,35,45,
+B. 10,25,35,45,10
+C. 10 25 35 45,
+D. 10253545,
+a=39 --> b=a//10 --> c=a%10 --> d=b*10+c --> print(d) işlemin sonucu nedir?:B
+A. 3 
+B. 39 
+C. 3.9 
+D. 9
+a="1" --> b="3" --> c=a+b --> print(a,b,c,sep="0") işleminin sonucu nedir?:B
+A. 10304
+B. 103013
+C. 13130
+D. 10301310
+print(type(27/12)) işleminin sonucu aşağıdakilerden hangisidir?:D
+A. <class 'int'>
+B. <class 'str'>
+C. <class 'list'>
+D. <class 'float'>
+kursAdi = "Python" --> print("y" in kursAdi) ifadesinin ekran çıktısı nedir?:C
+A. Python
+B. False
+C. True
+D. Hata verir.
+Python'da kullanılan list veri türleri için aşağıdakilerden hangisi yanlıştır?:D
+A. Sıralıdır.
+B. Birden çok öğeyi tek bir değişkende depolamak için kullanılır.
+C. Yinelenen değerlere izin verir.
+D. Boş bir liste oluşturmak için {} sembolleri kullanılır.
